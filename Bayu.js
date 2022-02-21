@@ -1604,7 +1604,7 @@ if (!isUser) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: trol
             but = [
             { buttonId: `${prefix}menu`, buttonText: { displayText: 'BACK MENU🏘️' }, type: 1 },
                  ]
-            Ryuu.sendMessage(from, sorce, image, {quoted: mek, caption: '┏━━⊱ Ssih \n\nJANGAN LUPA BUKTI TRANSAKSI😼'})
+            Ryuu.sendMessage(from, sorce, image, {quoted: mek, caption: 'Scan qr untuk melakukan pembayaran \n\nJANGAN LUPA BUKTI TRANSAKSI😼'})
             break
       case 'aov':
      if (!isUser) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: troli}) 
