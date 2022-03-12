@@ -21,9 +21,9 @@ LIST DIAMOND VIA ID BY YUNSIL
 𝟤𝟢𝟢𝟢 💎 ➭ 𝟤𝟥7.𝟢𝟢𝟢
 
 🥝 ࣪ ͎ ᎷᎷ ➭ 27.000
- 🥝 ࣪ ͎ ᎷᏰ ➭ 𝟣𝟥1.5𝟢𝟢
+ 🥝 ࣪ ͎ ᎷᏰ ➭ 132.000
 				
-Untuk pay / pembayan silahkan ketik ${prefix}pay
+Untuk payment silahkan ketik ${prefix}allpay
 `
 	}
 
